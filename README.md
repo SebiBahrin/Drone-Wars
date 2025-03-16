@@ -1,4 +1,5 @@
 # Shooter Drone Game
+![](https://github.com/SebiBahrin/Drone-Wars/blob/main/ezgif-6dbfb4617ba82c.gif)
 
 ## Overview
 This project is a real-time 3D simulation featuring a controllable drone, enemy drones, obstacles, projectiles, and an interactive terrain. The simulation demonstrates collision detection, physics-based movement, and simple enemy behavior within an OpenGL environment.
@@ -97,7 +98,7 @@ cd bin/Debug/
 ### **Actions**
 - `SPACE` - Shoot a projectile
 - `C` - Toggle between first-person and third-person camera views
-- `Q` - Affects collision behavior with the ground (hold to modify behavior)
+
 
 ---
 
